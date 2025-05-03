@@ -15,3 +15,4 @@ Contains summaries and documentation of results.
 ---
 
 This folder organizes the working files for the EduConnect data science pipeline.
+I lso update this file 
